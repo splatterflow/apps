@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "dbmeter",
+      "bundleId": "com.splatterflow.dbmeter",
+      "appStoreId": "0000000000",
+      "name": "dBMeter",
+      "tagline": "Pro sound level meter in your pocket",
+      "iconURL": "https://raw.githubusercontent.com/splatterflow/portfolio/main/cross-promo/icons/dbmeter.png",
+      "urlScheme": "dbmeter",
+      "weight": 10,
+      "active": true,
+      "countries": null,
+      "minIOS": "16.0"
+    },
+    {
+      "id": "practicekit",
+      "bundleId": "com.splatterflow.practicekit",
+      "appStoreId": "0000000000",
+      "name": "PracticeKit",
+      "tagline": "Metronome & chromatic tuner for musicians",
+      "iconURL": "https://raw.githubusercontent.com/splatterflow/portfolio/main/cross-promo/icons/practicekit.png",
+      "urlScheme": "practicekit",
+      "weight": 10,
+      "active": true,
+      "countries": null,
+      "minIOS": "17.0"
+    },
+    {
+      "id": "jobsnail",
+      "bundleId": "JobSnail",
+      "appStoreId": "0000000000",
+      "name": "JobSnail",
+      "tagline": "Track every job application in one place",
+      "iconURL": "https://raw.githubusercontent.com/splatterflow/portfolio/main/cross-promo/icons/jobsnail.png",
+      "urlScheme": "jobsnail",
+      "weight": 10,
+      "active": true,
+      "countries": null,
+      "minIOS": "16.0"
+    }
+  ]
+}
