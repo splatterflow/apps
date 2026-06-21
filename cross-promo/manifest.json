@@ -3,7 +3,7 @@
   "apps": [
     {
       "id": "dbmeter",
-      "bundleId": "com.splatterflow.dbmeter",
+      "bundleId": "com.mb.dbmeter",
       "appStoreId": "6767850405",
       "name": "dBMeter",
       "tagline": "Pro sound level meter in your pocket",
