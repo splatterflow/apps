@@ -23,7 +23,7 @@
       "iconURL": "https://raw.githubusercontent.com/splatterflow/apps/main/cross-promo/icons/practicekit.png",
       "urlScheme": "practicekit",
       "weight": 10,
-      "active": true,
+      "active": false,
       "countries": null,
       "minIOS": "17.0"
     },
