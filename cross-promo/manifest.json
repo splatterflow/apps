@@ -39,6 +39,19 @@
       "active": true,
       "countries": null,
       "minIOS": "16.0"
+    },
+    {
+      "id": "thaw",
+      "bundleId": "com.splatterflow.thaw",
+      "appStoreId": "6827105990",
+      "name": "Thaw",
+      "tagline": "Something to say when a conversation stalls",
+      "iconURL": "https://raw.githubusercontent.com/splatterflow/apps/main/cross-promo/icons/thaw.png",
+      "urlScheme": "thaw",
+      "weight": 10,
+      "active": false,
+      "countries": null,
+      "minIOS": "17.0"
     }
   ]
 }
