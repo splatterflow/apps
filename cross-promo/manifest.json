@@ -12,7 +12,10 @@
       "weight": 10,
       "active": true,
       "countries": null,
-      "minIOS": "16.0"
+      "minIOS": "16.0",
+      "platforms": [
+        "ios"
+      ]
     },
     {
       "id": "practicekit",
@@ -25,7 +28,10 @@
       "weight": 10,
       "active": true,
       "countries": null,
-      "minIOS": "17.0"
+      "minIOS": "17.0",
+      "platforms": [
+        "ios"
+      ]
     },
     {
       "id": "jobsnail",
@@ -38,7 +44,11 @@
       "weight": 10,
       "active": true,
       "countries": null,
-      "minIOS": "16.0"
+      "minIOS": "16.0",
+      "platforms": [
+        "ios",
+        "mac"
+      ]
     },
     {
       "id": "thaw",
@@ -51,7 +61,10 @@
       "weight": 10,
       "active": false,
       "countries": null,
-      "minIOS": "17.0"
+      "minIOS": "17.0",
+      "platforms": [
+        "ios"
+      ]
     }
   ]
 }
