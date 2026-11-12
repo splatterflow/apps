@@ -59,7 +59,7 @@
       "iconURL": "https://raw.githubusercontent.com/splatterflow/apps/main/cross-promo/icons/thaw.png",
       "urlScheme": "thaw",
       "weight": 10,
-      "active": false,
+      "active": true,
       "countries": null,
       "minIOS": "17.0",
       "platforms": [
