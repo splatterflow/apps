@@ -15,7 +15,12 @@
       "minIOS": "16.0",
       "platforms": [
         "ios"
-      ]
+      ],
+      "web": {
+        "name": "dB Meter",
+        "description": "A precise, beautifully designed decibel sound-level meter. Measure, log, and protect your hearing — all on-device.",
+        "privacy": "dBMeter/privacy-policy.html"
+      }
     },
     {
       "id": "practicekit",
@@ -31,7 +36,12 @@
       "minIOS": "17.0",
       "platforms": [
         "ios"
-      ]
+      ],
+      "web": {
+        "name": "Practice Kit",
+        "description": "A metronome and chromatic tuner for musicians. Keep time, tune up, and practice better — in one clean kit.",
+        "privacy": "PracticeKit/privacy-policy.html"
+      }
     },
     {
       "id": "jobsnail",
@@ -48,7 +58,12 @@
       "platforms": [
         "ios",
         "mac"
-      ]
+      ],
+      "web": {
+        "name": "JobSnail",
+        "description": "A job application tracker — manage applications and interviews, track progress, and stay organized through your search.",
+        "url": "https://www.jobsnail.app"
+      }
     },
     {
       "id": "thaw",
@@ -64,7 +79,12 @@
       "minIOS": "17.0",
       "platforms": [
         "ios"
-      ]
+      ],
+      "web": {
+        "name": "Thaw",
+        "description": "Something to say when a conversation stalls. Hundreds of icebreakers and conversation threads for dates, dinners, and new friends — all on-device.",
+        "privacy": "Thaw/privacy-policy.html"
+      }
     }
   ]
 }

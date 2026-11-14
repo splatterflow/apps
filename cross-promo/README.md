@@ -31,6 +31,12 @@ code changes, no resubmissions.**
 | `active`     | no       | set `false` to pull an app without removing it (default true)|
 | `countries`  | no       | ISO regions to restrict to (null = everywhere)               |
 | `minIOS`     | no       | hide on older devices (e.g. "17.0")                          |
+| `platforms`  | no       | `["ios"]`, `["ios","mac"]` — a Mac host shows only Mac apps    |
+| `web`        | yes*     | landing-page card: `name`, `description`, `privacy` (path on the site), optional `url` to link somewhere other than the App Store. Apps ignore it. |
+
+\* **The landing page reads this file too.** `splatterflow.github.io` builds its app cards from
+every `active` entry, newest (last in the list) first — so append new apps at the end, and
+flipping `active` to `true` is what publishes the app on the website.
 
 ## TODO before this is live
 
