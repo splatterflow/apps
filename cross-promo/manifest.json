@@ -35,7 +35,8 @@
       "countries": null,
       "minIOS": "17.0",
       "platforms": [
-        "ios"
+        "ios",
+        "mac"
       ],
       "web": {
         "name": "Practice Kit",
